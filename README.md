@@ -1,21 +1,12 @@
 # Ved AI Projects
 
-This repository contains my Python AI and Automation Projects.
+## AI Code Generator
+Python desktop application to generate code
 
-Projects:
+## Face AI
+Detect face and emotion
 
-1. Face AI Detection
-- Detect face
-- Emotion detection
-- Smart AI camera
-
-2. Spider Clock
-- Analog AI clock
-- Python GUI project
+## Spider Clock
+Analog clock using Python
 
 More projects coming soon...
-
-Skills:
-Python | AI | Automation | Computer Vision
-
-Open for freelance work
